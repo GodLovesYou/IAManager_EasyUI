@@ -1,0 +1,8 @@
+[database]
+host=10.141.9.178
+port=1521
+SID=bzyddb
+character=UTF8
+user=shipin
+password=shipin:lnsoft1998
+dbauser=

@@ -1,0 +1,7 @@
+[database]
+host=172.16.1.17
+port=13306
+name=tgaccess
+character=utf8
+user=root
+password=tgdz
